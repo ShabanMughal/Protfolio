@@ -187,4 +187,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/thunder-mughal-27386a2a9?utm_source=share_via&utm_content=profile&utm_medium=
+    link: "https://www.linkedin.com/in/thunder-mughal",
+  },
+];
