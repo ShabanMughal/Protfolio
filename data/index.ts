@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "Admin Dashboard",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "Explore the theme changing dashboard with charts and trending flow charts and bars...",
     img: "/p1.png",
     iconLists: ["/re.svg", "/sass.svg", "/vit.svg"],
     link: "https://dashboard-khaki-six-34.vercel.app/",
@@ -81,7 +81,7 @@ export const projects = [
   {
     id: 2,
     title: "Popular Gancha Game - Clone",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    des: "The famous Kuro Game project pgr and the clone of its official website...",
     img: "/p2.png",
     iconLists: ["/vit.svg", "/tail.svg", "/re.svg", "/fm.svg"],
     link: "https://pgr-game.vercel.app/",
@@ -89,7 +89,7 @@ export const projects = [
   {
     id: 3,
     title: "UI/UX Design - Clone",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    des: "A AI UI design website with Awesome gradients and attractive design...",
     img: "/p3.png",
     iconLists: ["/re.svg", "vit.svg", "/tail.svg", "/fm.svg"],
     link: "https://brainwave-red.vercel.app/",
