@@ -84,7 +84,7 @@ export const projects = [
     des: "The latest game Zenless Zone Zero by hoyoverse a branded website clone...",
     img: "/p2.png",
     iconLists: ["/vit.svg", "/tail.svg", "/re.svg", "/fm.svg"],
-    link: "https://pgr-game.vercel.app/",
+    link: "https://zenless-zero-clone.vercel.app/",
   },
   {
     id: 3,
