@@ -81,7 +81,7 @@ export const projects = [
   {
     id: 2,
     title: "Popular Gancha Game - Clone",
-    des: "The famous Kuro Game project pgr and the clone of its official website...",
+    des: "The latest game Zenless Zone Zero by hoyoverse a branded website clone...",
     img: "/p2.png",
     iconLists: ["/vit.svg", "/tail.svg", "/re.svg", "/fm.svg"],
     link: "https://pgr-game.vercel.app/",
