@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Admin Dashboard",
-    des: "Explore the theme changing dashboard with charts and trending flow charts and bars...",
+    title: "Reimagine AI System",
+    des: "An innovative AI platform with 3D models and chatbot features...",
     img: "/p1.png",
-    iconLists: ["/re.svg", "/sass.svg", "/vit.svg"],
-    link: "https://dashboard-khaki-six-34.vercel.app/",
+    iconLists: ["/re.svg", "/next.svg", "/tail.svg", "/gsap.svg", "/three.svg"],
+    link: "https://robot-ai.vercel.app/",
   },
   {
     id: 2,
