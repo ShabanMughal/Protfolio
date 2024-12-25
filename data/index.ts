@@ -75,7 +75,7 @@ export const projects = [
     title: "Reimagine AI System",
     des: "An innovative AI platform with 3D models and chatbot features...",
     img: "/p1.png",
-    iconLists: ["/re.svg", "/next.svg", "/tail.svg", "/gsap.svg", "/three.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/gsap.svg", "/three.svg"],
     link: "https://robot-ai.vercel.app/",
   },
   {
@@ -99,7 +99,7 @@ export const projects = [
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
-    iconLists: ["/vit.svg", "/tail.svg", "/re.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/vit.svg", "/tail.svg", "/three.svg", "/gsap.svg"],
     link: "https://iphone-one-iota.vercel.app/",
   },
 ];
