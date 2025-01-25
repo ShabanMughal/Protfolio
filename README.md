@@ -1,3 +1,3 @@
 # Portfolio
 
-thats portfolio is not hosted
+thats portfolio is not hosted anymore
